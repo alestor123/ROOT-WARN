@@ -1,7 +1,7 @@
 {
   "name": "root-warn",
   "version": "1.0.0",
-  "description": "This is a simple code warn code is running as root usr",
+  "description": "This is a simple code warn process is running as root usr",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
